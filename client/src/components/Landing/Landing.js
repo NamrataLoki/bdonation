@@ -113,17 +113,9 @@ const Landing = ({ isAuthenticated }) => {
               </h3>
               <h4>Testimonials</h4>
               <p className='left-align light'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                scelerisque id nunc nec volutpat. Etiam pellentesque tristique
-                arcu, non consequat magna fermentum ac. Cras ut ultricies eros.
-                Maecenas eros justo, ullamcorper a sapien id, viverra ultrices
-                eros. Morbi sem neque, posuere et pretium eget, bibendum
-                sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu
-                mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi
-                massa odio, condimentum sed ipsum ac, gravida ultrices erat.
-                Nullam eget dignissim mauris, non tristique erat. Vestibulum
-                ante ipsum primis in faucibus orci luctus et ultrices posuere
-                cubilia Curae;
+                There is a constant need for regular blood supply because blood can be stored for only a limited time before use. Regular blood donations by a sufficient number of healthy people are needed to ensure that safe blood will be available whenever and wherever it is needed.
+
+Blood is the most precious gift that anyone can give to another person — the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components — red cells, platelets and plasma — which can be used individually for patients with specific conditions.;
               </p>
             </div>
           </div>
